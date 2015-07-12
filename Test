@@ -1,0 +1,19 @@
+<html>
+
+<head>
+<title> Mess-Around </title>
+</head>
+
+<TABLE BORDER=3 BGCOLOR="#FFCCFF">
+<TR>
+<TD>Row 1<BR>Col 1</TD>
+<TD>Row 1<BR>Col 2</TD>
+<TD>Row 1<BR>Col 3</TD>
+</TR>
+<TR>
+<TD>Row 2<BR>Col 1</TD>
+<TD>Row 2<BR>Col 2</TD>
+<TD>Row 2<BR>Col 3</TD>
+</TR>
+</TABLE>
+
